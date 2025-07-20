@@ -15,7 +15,7 @@ Solving business problems through code, automation, and clarity.
 
 ### 🧠 About Me
 
-I’m a full-stack developer and strategic consultant who thrives at the intersection of code and operations. I design, build, and deploy tools that solve real problems—whether that’s for small business teams, independent contractors, or educational initiatives. My work combines user-friendly interfaces with infrastructure that's secure, minimal, and built to last.
+I’m a technologist and strategic consultant who thrives at the intersection of code and operations. I design, build, and deploy tools that solve real problems—whether that’s for small business teams, independent contractors, or educational initiatives. My work combines user-friendly interfaces with infrastructure that's secure, minimal, and built to last.
 
 I’m especially interested in building systems that:
 - Automate workflows for solo operators and small teams
