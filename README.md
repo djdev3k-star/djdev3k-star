@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m Derrick James
+#  Hi, I’m Derrick James
 
 **Developer | Consultant | Systems Thinker**  
 Solving business problems through code, automation, and clarity.
@@ -13,7 +13,7 @@ Solving business problems through code, automation, and clarity.
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 I’m a technologist and strategic consultant who thrives at the intersection of code and operations. I design, build, and deploy tools that solve real problems—whether that’s for small business teams, independent contractors, or educational initiatives. My work combines user-friendly interfaces with infrastructure that's secure, minimal, and built to last.
 
@@ -25,7 +25,7 @@ I’m especially interested in building systems that:
 ---
 
 <details>
-<summary><strong>🛠️ Tech Toolkit</strong> (click to expand)</summary>
+<summary><strong> Tech Toolkit</strong> (click to expand)</summary>
 
 | Layer                 | Tools & Technologies |
 |------------------------|----------------------|
@@ -42,7 +42,7 @@ I’m especially interested in building systems that:
 ---
 
 <details>
-<summary><strong>💬 What Drives Me</strong> (click to expand)</summary>
+<summary><strong> What Drives Me</strong> (click to expand)</summary>
 
 - **Problem Solving with Empathy**  
   I believe the best tools start with deep listening. My approach centers on building around real user needs.
